@@ -1,0 +1,27 @@
+Original Project Uses:
+
+SPI3 ( PE_0 PC_10 PC_12 PC_11), 
+wifi_wakeup pin (PB_13), 
+wifi_dataready pin (PE_1), wifi reset pin (PE_8)
+
+configure Wake up pin PB13 
+configure Data ready pin PE1
+configure Reset pin PE8 
+configure SPI NSS pin pin PE12
+configure SPI CLK pin PC10
+configure SPI MOSI pin PC12
+configure SPI MISO pin PC11
+
+Our Project Uses:
+
+SPI2 ( PE_0 PC_10 PC_12 PC_11), 
+wifi_wakeup pin (PB_13), 
+wifi_dataready pin (PE_1), wifi reset pin (PE_8)
+
+configure Wake up pin PB0
+configure Data ready pin PB1
+configure Reset pin PA8 
+configure SPI NSS pin pin PB12
+configure SPI CLK pin PB10
+configure SPI MOSI pin PC3
+configure SPI MISO pin PC2

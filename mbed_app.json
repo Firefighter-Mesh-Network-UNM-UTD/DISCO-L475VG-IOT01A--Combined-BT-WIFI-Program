@@ -1,0 +1,28 @@
+{
+    "config": {
+        "wifi-ssid": {
+            "help": "WiFi SSID",
+            "value": "\"ICU2\""
+        },
+        "wifi-password": {
+            "help": "WiFi Password",
+            "value": "\"ANJOLENA\""
+        },
+        "server-ip-1": {
+            "help": "TCP server IP address 1st value",
+            "value": "10"
+        },
+        "server-ip-2": {
+            "help": "TCP server IP address 2nd value",
+            "value": "21"
+        },
+        "server-ip-3": {
+            "help": "TCP server IP address 3rd value",
+            "value": "223"
+        },
+        "server-ip-4": {
+            "help": "TCP server IP address 4th value",
+            "value": "114"
+        }
+    }
+}

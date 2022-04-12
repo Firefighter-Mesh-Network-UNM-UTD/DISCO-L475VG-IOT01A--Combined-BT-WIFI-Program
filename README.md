@@ -1,4 +1,4 @@
-How to connect your Discovery board to WIFI, send data to it, and have it send data back
+How to connect your Discovery board to WIFI and bluetooth, and send data over bluetooth from an external device to your developement board:
 
 1. Create a GitHub account: https://github.com/
 

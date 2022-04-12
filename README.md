@@ -29,5 +29,3 @@ How to connect your Discovery board to WIFI and bluetooth, and send data over bl
 14. The BT/WIFI Test service has the UUID "0xA000" and includes the writable characteristic which has the UUID "0xA001". These two items may be labled as "unknown service" and "unknown characteristic", respectively. Click on the characteristic to reveal two arrows. Click on the "upward-facing arrow" with represents the "write" function. Change the data type to be an 8-bit (Byte) size. Enter any number between 0 and 255 (FF in hexidecimal), then click "SEND". This should send the chosen data to the board and the console should display the entered data value in hexidecimal format.
 
 This was as far as we were able to get in this test program for our development boards. We established a bluetooth connection, a WIFI connection, and we sent data from an external bluetooth-enabled device to our development board over a bluetooth connection. The next step, which we were unable to achieve, is to send the received data over a WIFI connection to an external WIFI-enabled device.
-
-15.
